@@ -1,3 +1,26 @@
+
+img {
+  float: left;
+  border-image: 10px;
+}
+
+.flower {
+  color: green;
+  font-size: 20px;
+  width: 30%;
+}
+
+.columns {
+  width: 300px;
+  float: left;
+}
+
+.column p {
+  color: blue;
+  font-size: 20px;
+  font-style: italic;
+}
+
 .important {
   color: red;
   font-family: cursive;
