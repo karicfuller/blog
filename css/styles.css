@@ -1,18 +1,22 @@
-.important{
+.important {
   color: red;
   font-family: cursive;
   font-weight: bold;
   font-size: 20px;
+  border: 2px solid red;
+  padding: 10px;
+  margin: 10px;
+  background-color: yellow;
 }
 
-.unimportant{
+.unimportant {
   color: green;
   font-family: monospace;
   font-weight: bolder;
   font-size: 20px;
 }
 
-.span{
+.span {
   color: blue;
   font-size: 20px;
   font-weight: bolder;
